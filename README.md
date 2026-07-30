@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile, appreciate your visit ;)
 
 * 🔭 I’m currently working on Project Oppia
 * 🌱 I’m currently learning UX Design
